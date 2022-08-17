@@ -1,0 +1,4 @@
+class Random{
+psvm(){
+Random r= new Random();
+r.ints().forEach(System.out::println);
